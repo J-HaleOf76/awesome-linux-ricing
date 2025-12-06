@@ -283,6 +283,7 @@ Some great GitHub repos with wallpaper collections by:
 - [lemonbar](https://github.com/LemonBoy/bar)<sup>X11</sup> - Featherweight, lemon-scented, bar based on xcb.
 - [gBar](https://github.com/scorpion-26/gBar)<sup>Wayland</sup> - Blazingly fast status bar written with GTK.
 - [fabric](https://github.com/Fabric-Development/fabric/)<sup>X11 + Wayland</sup> - Next-gen framework for building desktop widgets using Python.
+- [Quickshell](https://quickshell.org/)<sup>X11 + Wayland</sup> - Toolkit for building status bars, widgets, lockscreens, and other desktop components using QtQuick.
 
 > [!NOTE]
 > Some of these tools can also be used to create widgets and other UI elements, not just bars.
